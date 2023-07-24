@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">  
-      <h1>FB-Github</h1>
+      <h1>FB-Github using React</h1>
+      <h2>Created with npm create react app</h2>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
